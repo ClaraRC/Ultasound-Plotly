@@ -15,6 +15,8 @@ Inside each file the target consonant is always highligthed in boldface. Lingual
 	
 	
    - (c) You can view the splines for the non-target consonants (i.e., all contextual consonants appearing next to the target consonant and thus /l/ L, /t/ T, /n/ N, /p/ P, /ɲ/ NY and /k/ K in the case of target S) at a given time point by clicking on any of the buttons ‘Non-target C1 on’, ‘Non-target C1 mp’, etc. Colours may be changed as in (b).
+   
+   
 You can view a subset of the splines being displayed by removing one or more splines by just clicking on the labels appearing on the right of the graph. There other things that you can do with the ‘zoom’, ‘pan’, ‘autoscale’  and ‘reset axes’ icons appearing on the screen above the uppermost buttons. 
 
 
